@@ -4,4 +4,4 @@ const path = require("path");
 //1-> working directory
 
 console.log(__dirname);
-// console.log(__filename);
+console.log(__filename);
