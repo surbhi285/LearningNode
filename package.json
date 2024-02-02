@@ -1,0 +1,14 @@
+{
+  "name": "node_fsd",
+  "version": "1.0.0",
+  "description": "this class project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surbhi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
